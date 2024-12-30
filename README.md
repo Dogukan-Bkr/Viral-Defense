@@ -19,6 +19,10 @@ A 2D top-down shooter game where you control a main character fighting off waves
 - Player Mechanics: Focus on shooting, movement, and survival in an action-packed experience.
 
 
-#In Game
+# In Game
 
 <img width="1916" alt="In Game" src="https://github.com/user-attachments/assets/cc196455-e4b8-41b2-8589-927da9eada33"/>
+
+## Game Assets
+I created all the sprities I used using Pixilart.com.
+
