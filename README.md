@@ -23,6 +23,6 @@ A 2D top-down shooter game where you control a main character fighting off waves
 
 <img width="1916" alt="In Game" src="https://github.com/user-attachments/assets/cc196455-e4b8-41b2-8589-927da9eada33"/>
 
-## Game Assets
+Game Assets
 I created all the sprities I used using Pixilart.com.
 
